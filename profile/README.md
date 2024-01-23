@@ -1,3 +1,3 @@
-# GROUND - advancing GROup UNderstanding and robots' aDaptive behavior
+# What is GROUND?
 
 TODO
